@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/softstate/website#readme">
+<a href="https://github.com/softstate/website/packages/255113">
     <img src="
 https://github.com/softstate/website/workflows/Docker/badge.svg?branch=master"/>
   </a>
