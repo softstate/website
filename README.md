@@ -6,8 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/softstate/website/packages/255113">
-    <img src="
-https://github.com/softstate/website/workflows/Docker/badge.svg?branch=master"/>
+    <img src="https://github.com/softstate/website/workflows/Docker/badge.svg"/>
   </a>
 
   <a href="https://github.com/softstate/website#readme">
@@ -33,4 +32,8 @@ https://github.com/softstate/website/workflows/Docker/badge.svg?branch=master"/>
   <a href="https://github.com/softstate/website/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="https://github.com/softstate/website#readme" />
   </a>
+</p>
+
+<p align="center">
+<img src="softstate.png" alt="softstate logotipo">
 </p>
